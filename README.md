@@ -1,27 +1,39 @@
+# Agence La Panthère - Optimisation SEO
 
-# Agence La Panthère
+## 🎯 À propos
+La Panthère est une agence de web design basée à Lyon, spécialisée dans la création de sites web professionnels et optimisés. Ce projet présente la refonte et l'optimisation SEO du site web de l'agence.
 
-La Panthère est une grande agence de web design basée à Lyon. L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. La fondatrice de l’entreprise, cherche une solution pour faire repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche. 
+## 🚀 Objectifs du Projet
+1. Analyse complète de l'état SEO initial
+2. Optimisation du site web selon les meilleures pratiques
+3. Amélioration des performances et de l'accessibilité
 
-## Mission 1
-💥 Analyse de l’état actuel de SEO du site fourni.
+## ✨ Améliorations Apportées
+- Optimisation des images et ressources
+- Amélioration de l'accessibilité selon les normes WCAG
+- Optimisation du code HTML/CSS (validé W3C)
+- Amélioration des performances de chargement
+- Mise en place des meilleures pratiques SEO
+- Adaptation responsive pour tous les écrans
 
-- Indiquer les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, tout en justifiant nos choix.
-- Ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources, puis sélectionner au moins 10 recommandations pour améliorer le site. 
+## 🛠 Technologies Utilisées
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
 
-Il faudra bien garder en tête que le but est que notre site soit mieux classé lorsqu’on tape “Entreprise webdesign Lyon” dans les moteurs de recherche. 
-Revoyez aussi, la vitesse et la taille du site. Certains de nos utilisateurs rencontrent des problèmes d’accessibilité sur notre site, c’est un point sur lequel on veut s’améliorer. 
-Ajouter donc les éléments nécessaires. La liste de ce qu’on devra implémenter se trouve à cette [adresse](https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist).
+## 📊 Résultats
+- Amélioration significative des temps de chargement
+- Meilleur référencement pour les mots-clés ciblés
+- Score d'accessibilité optimisé
+- Validation W3C HTML et CSS
 
-## Mission 2
-💥💥 Amélioration du SEO du site.
+## 🔗 Liens Utiles
+- [Site Web Live](https://techie-sam.github.io/Projet4-LaPanth-re-OC/)
+- [Dépôt GitHub](https://github.com/Techie-sam/Projet4-LaPanth-re-OC)
+- [Rapport d'Analyse SEO](./La_Panthère_Tahirou_Samira./Tahirou_Samira_1_rapport_analyse_112022.pdf)
+- [Rapport d'Optimisation](./La_Panthère_Tahirou_Samira./Tahirou_Samira_3_rapport_optimisation_112022.pdf)
 
-Il faudra ensuite optimiser notre site en appliquant vos 10 recommandations à son contenu et à son code source. Vous devez pour cela fournir le code source complet de la version améliorée du site. Le site doit passer le W3C pour HTML et CSS.
-
-## Mission 3
-💥💥💥 Comparaison des résultats.
-La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. 
-Dans vos différentes recommandations, j’aimerais que vous prennez des mesures pour accélérer la vitesse de chargement, et que vous me montrez que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que vous aurez optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
-
-Tous ces éléments devront être codés en HTML et CSS. Fais également attention à ce que le site soit toujours adapté à toutes les tailles d’écran après tes modifications.
-
+## 📝 Contact
+Pour toute question ou suggestion concernant ce projet, n'hésitez pas à ouvrir une issue sur GitHub.
